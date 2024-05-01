@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000; /* Black background */
+  }
+  
+  .clock {
+    font-size: 3rem;
+  }
+  
+  .time {
+    color: #00ff00; /* Green color */
+  }
+  
+  
